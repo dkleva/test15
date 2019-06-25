@@ -1,0 +1,4 @@
+# Created by cloud-init v. 18.5-45-g3554ffe8-0ubuntu1~16.04.1 on Fri, 21 Jun 2019 15:10:18 +0000
+
+# User rules for student-35
+student-35 ALL=(ALL) NOPASSWD:ALL
